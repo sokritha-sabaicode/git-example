@@ -6,6 +6,7 @@ Command:
 + git branch : show all branch inside own pc
 + git status
 + git checkout -b new_branch_name : create new branch
++ git branch -r
 
 
 add every file/folder in the working directory (new create/update/delete) -> staging area
