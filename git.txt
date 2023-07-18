@@ -1,0 +1,14 @@
+Command:
++ git add
++ git commit -m "Message"
++ git push origin branch_name
++ git pull origin branch_name
++ git branch : show all branch inside own pc
++ git status
++ git checkout -b new_branch_name : create new branch
+
+
+add every file/folder in the working directory (new create/update/delete) -> staging area
+commit (save) every file/folder inside staging area -> git directory
+push every file/folder inside git directory -> github/bibucket...
+pull every file/folder inside github -> our own pc
